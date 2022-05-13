@@ -10,7 +10,7 @@ const FAQSection = () => (
         <div id="content-description">
             <div className="content-description-section">
                 <div className="content-description-question">
-                    Will ScratchJr run on my iPad or tablet?
+                    Will ScratchJr Run On My iPad Or Tablet?
                 </div>
                 <div className="content-description-answer">
                     ScratchJr runs on both iPads and Android tablets. ScratchJr can be installed on
@@ -28,10 +28,10 @@ const FAQSection = () => (
             </div>
 
             <div className="content-description-section">
-                <div className="content-description-question">Is there a book for ScratchJr?</div>
+                <div className="content-description-question">Is There A Book For ScratchJr?</div>
                 <div className="content-description-answer">
                     <a
-                        href="https://www.nostarch.com/scratchjr"
+                        href="https://nostarch.com/scratchjr"
                         rel="noopener noreferrer"
                         target="_blank"
                     >
@@ -51,15 +51,15 @@ const FAQSection = () => (
                         href="https://medium.com/scratchfoundation-blog/helping-young-children-experiment-explore-and-express-themselves-with-code-69a450d42005#.9fq210a4q"
                         rel="noopener noreferrer"
                         target="_blank"
-                    >
+                    title="Excerpt of the book">
                         excerpt of the book
                     </a>
                     . You can buy your copy
                     through <a
-                        href="https://www.nostarch.com/scratchjr"
+                        href="https://nostarch.com/scratchjr"
                         rel="noopener noreferrer"
                         target="_blank"
-                    >
+                    title="No Starch Press">
                         No Starch Press
                     </a>
                     !
@@ -68,26 +68,26 @@ const FAQSection = () => (
 
             <div className="content-description-section">
                 <div className="content-description-question">
-                    Will ScratchJr run on my Chromebook?
+                    Will ScratchJr Run On My Chromebook?
                 </div>
                 <div className="content-description-answer">
                     The Android version of ScratchJr that is available on
-                    the <a href="https://play.google.com/store/apps/details?id=org.scratchjr.android">Google Play Store</a> will run on all Chromebooks with the capability of running android apps. This will work on both touchscreen and non-touchscreen Chromebooks.
+                    the <a href="https://play.google.com/store/apps/details?id=org.scratchjr.android" title="Google Play Store">Google Play Store</a> will run on all Chromebooks with the capability of running android apps. This will work on both touchscreen and non-touchscreen Chromebooks.
                 </div>
             </div>
 
             <div className="content-description-section">
                 <div className="content-description-question">
-                    Are you planning to release a Web version of ScratchJr?
+                    Are You Planning To Release A Web Version Of ScratchJr?
                 </div>
                 <div className="content-description-answer">
-                    We are still in the early planning stages for a Web version.
+                    We are still in the early planning stages for a web version.
                 </div>
             </div>
 
             <div className="content-description-section">
                 <div className="content-description-question">
-                    Can I share a ScratchJr project from one tablet to another?
+                    Can I Share A ScratchJr Project From One Tablet To Another?
                 </div>
                 <div className="content-description-answer">
                     If you are running ScratchJr version 1.2 or greater, you can share projects via
@@ -99,7 +99,7 @@ const FAQSection = () => (
 
             <div className="content-description-section">
                 <div className="content-description-question">
-                Why can&apos;t ScratchJr record a sound or take a picture?
+                Why Can&apos;t ScratchJr Record A Sound Or Take A Picture?
                 </div>
                 <div className="content-description-answer">
                     If ScratchJr can&apos;t record sounds or take a picture with the camera,
@@ -113,7 +113,7 @@ const FAQSection = () => (
 
             <div className="content-description-section">
                 <div className="content-description-question">
-                    Will ScratchJr be available in other languages?
+                    Will ScratchJr Be Available In Other Languages?
                 </div>
                 <div className="content-description-answer">
                     Currently ScratchJr supports 20 languages including English, we hope to include
@@ -128,7 +128,7 @@ const FAQSection = () => (
 
             <div className="content-description-section">
                 <div className="content-description-question">
-                    Where does ScratchJr store my Projects?
+                    Where Does ScratchJr Store My Projects?
                 </div>
                 <div className="content-description-answer">
                     ScratchJr saves project data in an internal database stored locally on your
@@ -138,7 +138,7 @@ const FAQSection = () => (
             </div>
 
             <div className="content-description-section">
-                <em className="content-description-answer">Last updated: April, 2022</em>
+                <em className="content-description-answer">Last updated: April 2022</em>
             </div>
         </div>
     </div>
