@@ -32,7 +32,7 @@ const InfoSection = () => (
                 </div>
                 <div className="content-description-answer">
                     ScratchJr was inspired by the popular Scratch programming language (
-                    <a href="https://scratch.mit.edu">scratch.mit.edu</a>), used by millions of
+                    <a href="https://scratch.mit.edu" title="scratch.mit.edu">scratch.mit.edu</a>), used by millions of
                     young people (ages 8 and up) around the world. In creating ScratchJr, we
                     redesigned the interface and programming language to make them developmentally
                     appropriate for younger children, carefully designing features to match young
@@ -42,7 +42,7 @@ const InfoSection = () => (
                 <div className="content-description-answer">
                     ScratchJr is available as a free app for iPads, Android tablets, and
                     Chromebooks. For more information about ScratchJr,
-                    see <a href="https://scratchjr.org">scratchjr.org</a>.
+                    see <a href="https://scratchjr.org" title="scratchjr.org">scratchjr.org</a>.
                 </div>
             </div>
 
@@ -69,34 +69,34 @@ const InfoSection = () => (
                 <div className="content-description-question">Who Created ScratchJr?</div>
                 <div className="content-description-answer">
                     ScratchJr was developed by
-                    the <a href="//ase.tufts.edu/devtech/">
+                    the <a href="//ase.tufts.edu/devtech/" title="Developmental Technologies (DevTech) Rsearch Group)">
                         Developmental Technologies (DevTech) Research Group
                     </a> at
-                    the <a href="//ase.tufts.edu/epcshd/">
-                        Eliot-Pearson Department of Child Study and Human Development
+                    the <a href="//ase.tufts.edu/epcshd/" title="Eliot-Pearson Department Of Child Study And Human Development">
+                        Eliot-Pearson Department Of Child Study And Human Development
                     </a>
-                     at <a href="//www.tufts.edu/">Tufts University</a>
-                     (led by <a href="//www.tufts.edu/~mbers01/">Marina Umaschi Bers</a>, with contributions from
+                     at <a href="//tufts.edu/" title="Tufts University">Tufts University</a>
+                     (led by <a href="//tufts.edu/~mbers01/" title="Marina Umaschi Bers">Marina Umaschi Bers</a>, with contributions from
                      Amanda Strawhacker, Claire Caine,
                      Louise Flannery,
                      Elizabeth Kazakoff and
-                     Dylan Portelance), the <a href="h//llk.media.mit.edu/">Lifelong Kindergarten</a> group at
-                     the <a href="//www.media.mit.edu/">MIT Media Lab</a>
-                    &nbsp;(led by <a href="//web.media.mit.edu/~mres/">Mitchel Resnick</a>, with contributions
+                     Dylan Portelance), the <a href="//llk.media.mit.edu/" title="Lifelong Kindergarten Group">Lifelong Kindergarten Group</a> at
+                     the <a href="//media.mit.edu/" title="MIT Media Lab">MIT Media Lab</a>
+                    &nbsp;(led by <a href="//web.media.mit.edu/~mres/" title="Mitchel Resnick">Mitchel Resnick</a>, with contributions
                     from Chris Garrity, Tim Mickel, Carl Bowman, Champika Fernando, Natalie Rusk,
                     Sayamindu Dasgupta,
                     and Chris Graves),
-                    and the <a href="//www.playfulinvention.com/">Playful Invention Company</a> (led by
+                    and the <a href="//playfulinvention.com/" title="Playful Invention Company">Playful Invention Company</a> (led by
                     Paula Bont&aacute; and Brian Silverman, with contributions from Jack Geddes and
                     Adrian Gabriel).
                     The Android version of ScratchJr was implemented
-                    by <a href="//www.twosigma.com/">Two Sigma</a> (led by Mark Roth, with
+                    by <a href="//twosigma.com/" title="Two Sigma">Two Sigma</a> (led by Mark Roth, with
                     contributions from Kevin Hu), with input from Benesse Corp.
                 </div>
                 <div className="content-description-answer">
                     The graphics and illustrations for ScratchJr were
-                    created by <a href="//www.hvingtquatre.com/">HvingtQuatre Company</a> (led by Julien
-                    Gelifier and Adrien Valesa), <a href="//sarahjt.com/">Sarah Thomson</a>, Peter
+                    created by <a href="//hvingtquatre.com/" title="HvingtQuatre Company">HvingtQuatre Company</a> (led by Julien
+                    Gelifier and Adrien Valesa), <a href="//sarahjt.com/" title="Sarah Thomson">Sarah Thomson</a>, Peter
                     Mueller, and Jillian Lombardi. Paula Aguilera of the MIT Media Lab produced the
                     ScratchJr video. We would also like to thank everyone who participated in the
                     beta-test communities for iPad and Android, particularly Sergio Antolinez,
@@ -105,7 +105,7 @@ const InfoSection = () => (
             </div>
             <div className="content-description-section">
                 <div className="content-description-question">
-                    Who Helped to Translate ScratchJr?
+                    Who Helped To Translate ScratchJr?
                 </div>
                 <div className="content-description-answer">
                     ScratchJr has been translated into more than a dozen languages with the generous
@@ -123,16 +123,16 @@ const InfoSection = () => (
                     financial support from
                     <ul>
                         <li>
-                            <a href="//www.nsf.gov/">National Science Foundation</a> (NSF DRL-1118664)
+                            <a href="//nsf.gov/" title="National Science Foundation">National Science Foundation</a> (NSF DRL-1118664)
                         </li>
                         <li>
-                            <a href="//scratchfoundation.org/">Scratch Foundation</a>
+                            <a href="//scratchfoundation.org/" title="Scratch Foundation">Scratch Foundation</a>
                         </li>
                         <li>
-                            <a href="//www.legofoundation.com/">LEGO Foundation</a>
+                            <a href="//legofoundation.com/" title="LEGO Foundation">LEGO Foundation</a>
                         </li>
                         <li>
-                            <a href="//www.btplc.com/">British Telecommunications</a>
+                            <a href="//btplc.com/" title="British Telecommunications">British Telecommunications</a>
                         </li>
                         <li>Adobe Systems.</li>
                     </ul>
@@ -140,7 +140,7 @@ const InfoSection = () => (
                 <div className="content-description-answer">
                     If you enjoy using this free app, please consider making a donation to the
                     Scratch Foundation (
-                    <a href="//www.scratchfoundation.org">www.scratchfoundation.org</a>
+                    <a href="//scratchfoundation.org" title="scratchfoundation.org">scratchfoundation.org</a>
                     ), a nonprofit organization that provides ongoing support for ScratchJr. We
                     appreciate donations of all sizes, large and small.
                 </div>
