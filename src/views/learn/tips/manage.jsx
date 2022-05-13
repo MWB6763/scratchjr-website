@@ -4,7 +4,7 @@ import Section from '../../../components/sectionitem/section.jsx';
 const ManageSection = () => (
     <Section
         id="manage-projects-section"
-        title="Making, Renaming, and Deleting Projects"
+        title="Making, Renaming, And Deleting Projects"
     >
         <div className="content-section-description">
             Watch the video to learn how to make a new project, rename
@@ -14,7 +14,7 @@ const ManageSection = () => (
             <iframe
                 width="640"
                 height="480"
-                src="https://www.youtube.com/embed/RXXDUxqBzBI?rel=0"
+                src="https://youtube.com/embed/RXXDUxqBzBI?rel=0"
                 frameBorder="0"
                 allowFullScreen
             />
