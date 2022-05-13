@@ -40,15 +40,15 @@ const Index = () => {
                         solve problems, design projects, and express themselves creatively on the
                         computer.
                         <div id="store-badges">
-                            <a href="https://itunes.apple.com/us/app/scratchjr/id895485086?ls=1&mt=8">
+                            <a href="https://itunes.apple.com/us/app/scratchjr/id895485086?ls=1&mt=8" title="Download On The App Store">
                                 <img
-                                    alt="Download on the App Store"
+                                    alt="Download On The App Store"
                                     src="/images/Apple_appstore.svg"
                                 />
                             </a>
-                            <a href="https://play.google.com/store/apps/details?id=org.scratchjr.android">
+                            <a href="https://play.google.com/store/apps/details?id=org.scratchjr.android" title="Get It on Google Play">
                                 <img
-                                    alt="Get it on Google Play"
+                                    alt="Get It On Google Play"
                                     src="/images/GooglePlay.svg"
                                 />
                             </a>
@@ -71,13 +71,13 @@ const Index = () => {
                     </div>
                     <div className="content-news-body">
                         <a
-                            href="https://www.amazon.com/Official-ScratchJr-Book-Help-Learn/dp/1593276710/"
+                            href="https://amazon.com/Official-ScratchJr-Book-Help-Learn/dp/1593276710/" title="The Official ScratchJr Book"
                         >
                             The Official ScratchJr Book
                         </a> is the perfect companion to the app and makes coding easy and fun for all.
                     </div>
                     <div className="content-news-body">
-                        The <a href="https://www.amazon.com/ScratchJr-Coding-Cards-Creative-Activities/dp/1593278993/">
+                        The <a href="https://amazon.com/ScratchJr-Coding-Cards-Creative-Activities/dp/1593278993/" title="ScratchJr Coding Cards">
                             ScratchJr Coding Cards
                         </a> are a deck of 75 activity cards covering fun and
                         exciting projects designed to educate young children with ScratchJr.
@@ -87,13 +87,13 @@ const Index = () => {
                 <div id="discussion-container">
                     <div id="discussion-text">
                         <div id="discussion-header">
-                            Join the Discussion
+                            Join The Discussion
                         </div>
                         <div id="discussion-body">
                             We introduced ourselves. Now it&apos;s your turn. Drop us a line with feedback,
                             report bugs &amp; glitches, or just say &apos;hi!&apos;
                             <br />
-                            <a href=" https://twitter.com/intent/tweet?screen_name=ScratchJr">
+                            <a href="https://twitter.com/intent/tweet?screen_name=ScratchJr" title="Tweet @ScratchJr">
                                 <div className="blue-button">
                                     Tweet @ScratchJr
                                 </div>
