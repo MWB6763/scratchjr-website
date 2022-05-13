@@ -4,7 +4,7 @@ import Section from '../../../components/sectionitem/section.jsx';
 const PagesSection = () => (
     <Section
         id="pages-section"
-        title="Multiple pages"
+        title="Multiple Pages"
         translateUrls
         description=""
     >
