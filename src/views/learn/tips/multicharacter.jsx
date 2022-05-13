@@ -11,7 +11,7 @@ const MultiCharacterSection = () => (
             <iframe
                 width="640"
                 height="480"
-                src="https://www.youtube.com/embed/4qLVKpImrws?rel=0"
+                src="https://youtube.com/embed/4qLVKpImrws?rel=0"
                 frameBorder="0"
                 allowFullScreen
             />
