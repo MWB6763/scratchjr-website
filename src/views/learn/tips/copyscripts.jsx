@@ -12,7 +12,7 @@ const CopyScriptSection = () => (
             You can copy a script from one character to another by dragging the
             script from the programming area to the character in the list on the left.
             <img
-                alt="copy a script"
+                alt="Copy A Script"
                 className="content-section-image"
                 src="/images/tips/copy-script.png"
             />
@@ -22,7 +22,7 @@ const CopyScriptSection = () => (
             But you can also duplicate a script in a single programming area if you
             drag the script to the same character the script belongs to in the character list.
             <img
-                alt="duplicate a script"
+                alt="Duplicate A Script"
                 className="content-section-image"
                 src="/images/tips/duplicate.png"
             /><br />
