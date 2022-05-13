@@ -14,8 +14,8 @@ const BlocksSection = () => (
         >
             <a
                 href="/pdfs/block-descriptions.pdf"
-            >
-                <span className="download-icon">&#x2193;</span>Download guide as pdf
+            title="Download Guide As PDF">
+                <span className="download-icon">&#x2193;</span>Download Guide As PDF
             </a>
         </TxSpan>
         {/* Yellow Blocks */}
