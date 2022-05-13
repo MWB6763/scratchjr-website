@@ -16,7 +16,7 @@ const Donate = () => (
                 <p>
                     If you enjoy using the free ScratchJr app, please consider
                     making a donation to the Scratch Foundation (
-                    <a href="//www.scratchfoundation.org/">www.scratchfoundation.org</a>),
+                    <a href="//scratchfoundation.org/" title="scratchfoundation.org">scratchfoundation.org</a>),
                     a nonprofit organization that provides ongoing support for ScratchJr.
                     We appreciate donations of all sizes, large and small.
                 </p>
@@ -25,7 +25,7 @@ const Donate = () => (
                     <a
                         href="https://secure.donationpay.org/scratchfoundation/"
                         id="donate-button"
-                    >
+                    title="Donate">
                         <div className="blue-button">
                             Donate
                         </div>
