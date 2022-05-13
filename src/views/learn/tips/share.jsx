@@ -7,7 +7,7 @@ const ShareSection = () => (
         id="share-projects-section"
         title="Sharing ScratchJr Projects"
         translateUrls
-        description="You can share your ScratchJr projects in one of two ways: by email or by AirDrop."
+        description="You can share your ScratchJr projects in 1 of 2 ways: by email or by AirDrop."
     >
         <TxDiv
             className="content-section-item-description"
@@ -16,7 +16,7 @@ const ShareSection = () => (
             When the project you want to share is open, tap the yellow tab
             in the top-right corner to go to the Project Information screen.
             <img
-                alt="ScratchJr toprow icons"
+                alt="ScratchJr Top Row Icons"
                 className="content-section-image"
                 src="/images/tips/top-bar.png"
             />
@@ -28,7 +28,7 @@ const ShareSection = () => (
             installed. If you choose to share by AirDrop, the sender and
             the recipient must both be iPads.
             <img
-                alt="Share Projectpage"
+                alt="Share Project Page"
                 className="content-section-image"
                 src="/images/tips/share.png"
             />
@@ -38,7 +38,7 @@ const ShareSection = () => (
             answer a simple math problem to ensure that an adult approves
             sharing the project with others.
             <img
-                alt="Share parental gate"
+                alt="Share Parental Gate"
                 className="content-section-image"
                 src="/images/tips/share-parent-gate.png"
             />
@@ -50,7 +50,7 @@ const ShareSection = () => (
             When you select Share by Email you&apos;ll see an email message
             with your project attached to it.
             <img
-                alt="send email dialog"
+                alt="Send Email Dialog"
                 className="content-section-image"
                 src="/images/tips/share-email1.png"
             />
@@ -60,7 +60,7 @@ const ShareSection = () => (
             your project with and tap Send. When the recipient taps on
             the email attachment, they will get the following pop-up:
             <img
-                alt="receive email pop-up"
+                alt="Receive Email Pop-Up"
                 className="content-section-image"
                 src="/images/tips/share-email2.png"
             />
@@ -69,7 +69,7 @@ const ShareSection = () => (
             When they tap Open in &apos;ScratchJr&apos;, they will see the project
             you shared on the Home screen, wrapped in blue ribbon.
             <img
-                alt="shared project view"
+                alt="Shared Project View"
                 className="content-section-image"
                 src="/images/tips/shared-project.png"
             />
@@ -90,7 +90,7 @@ const ShareSection = () => (
             you want to send to. When you select AirDrop, you will
             see which iPads are ready to receive your project.
             <img
-                alt="AirDropdevices available"
+                alt="AirDrop Devices Available"
                 className="content-section-image"
                 src="/images/tips/share-airdrop1.png"
             />
@@ -101,7 +101,7 @@ const ShareSection = () => (
         <div className="content-section-item-description">
             When you select an iPad for AirDrop, the recipient will see the following message:
             <img
-                alt="AirDroprecipient dialog"
+                alt="AirDrop Recipient Dialog"
                 className="content-section-image"
                 src="/images/tips/share-airdrop2.png"
             />
@@ -110,7 +110,7 @@ const ShareSection = () => (
             If the recipient taps Accept, ScratchJr will tell you that
             the project was accepted with a &apos;Sent&apos; message.<br />
             <img
-                alt="AirDropconfirmation"
+                alt="AirDrop Confirmation"
                 className="content-section-image"
                 src="/images/tips/share-airdrop3.png"
             />
@@ -119,7 +119,7 @@ const ShareSection = () => (
             The recipient will see the shared project wrapped in blue
             ribbon on the Home screen.
             <img
-                alt="SharedProject view"
+                alt="Shared Project View"
                 className="content-section-image"
                 src="/images/tips/shared-project.png"
             />
@@ -134,7 +134,7 @@ const ShareSection = () => (
             If the recipient iPad doesn&apos;t have ScratchJr installed,
             you&apos;ll see this message:
             <img
-                alt="AirDropunavailable dialog"
+                alt="AirDrop Unavailable Dialog"
                 className="content-section-image"
                 src="/images/tips/share-airdrop5.png"
             /><br />
@@ -149,7 +149,7 @@ const ShareSection = () => (
             To turn off AirDrop, swipe up from the bottom of the iPad.
             You will see the following:
             <img
-                alt="AirDrop controls"
+                alt="AirDrop Controls"
                 className="content-section-image"
                 src="/images/tips/share-airdrop6.png"
             /><br />
