@@ -10,7 +10,7 @@ const Eula = () => (
         <NavBar />
         <div id="content">
             <div className="content-section">
-                <h1>END USER LICENSE AGREEMENT</h1>
+                <h1>End User License Agreement</h1>
                 <p>
                     This End User License Agreement (&apos;Agreement&apos;) applies to the ScratchJr Application
                     developed collaboratively by the
