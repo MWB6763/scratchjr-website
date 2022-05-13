@@ -63,7 +63,7 @@ const Teach = () => {
                     <Footer />
                     <footer id="print-footer">
                         <img
-                            alt="Creative commons logo"
+                            alt="Creative Commons Logo"
                             className="cc-logo"
                             src="/images/cc-logo.png"
                         />
@@ -73,7 +73,7 @@ const Teach = () => {
                             International License.
                         </div>
                         <img
-                            alt="DevTech logo"
+                            alt="DevTech Logo"
                             className="devtech-logo"
                             src="/images/DevTechLogo.png"
                         />
