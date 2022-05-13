@@ -10,7 +10,7 @@ export default class PrintButton extends React.Component {
             <button
                 onClick={this.handleClick}
                 className="blue-button print"
-            >
+            title="Print">
                 Print
             </button>
         );
