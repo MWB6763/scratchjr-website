@@ -19,14 +19,14 @@ class HostHomeSection extends React.Component {
                                 href="http://ase.tufts.edu/devtech/index.html"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                            >
+                            title="DevTech Research Group">
                                 DevTech Research Group
                             </a>{ ' at ' }
                             <a
-                                href="https://www.tufts.edu/"
+                                href="https://tufts.edu/"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                            >
+                            title="Tufts University">
                                 Tufts University
                             </a>,
                         co-creator of ScratchJr, is conducting a study about how families
