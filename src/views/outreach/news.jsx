@@ -10,11 +10,11 @@ const NewsSection = () => (
             ScratchJr Family Days News
         </div>
         <div className="content-section-description">
-            See what other people are doing in their Family Days.
+            See what other people are doing in their family days.
         </div>
         <div className="content-section-description">
             Tweet your Family Day news with the hashtag #ScratchJrFamily<br />
-            <a href=" https://twitter.com/intent/tweet?screen_name=ScratchJr&hashtags=ScratchJrFamily">
+            <a href="https://twitter.com/intent/tweet?screen_name=ScratchJr&hashtags=ScratchJrFamily" title="Tweet #ScratchJrFamily">
                 <div className="blue-button">
                     Tweet #ScratchJrFamily
                 </div>
