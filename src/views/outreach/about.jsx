@@ -18,7 +18,7 @@ const AboutSection = () => (
                         more comfortable using ScratchJr, but also to encourage collaboration between
                         adults and children while creating ScratchJr projects.
                     </div>
-                    <div className="content-description-question">Who are Family Days intended for?</div>
+                    <div className="content-description-question">Who Are Family Days Intended For?</div>
                     <div className="content-description-answer">
                         This event is for anyone who wants to create a ScratchJr community! It can be
                         done through schools, museum, after-school programs, community centers, or
@@ -32,7 +32,7 @@ const AboutSection = () => (
                 <iframe
                     width="560"
                     height="315"
-                    src="https://www.youtube.com/embed/rPRH9B-gvUQ"
+                    src="https://youtube.com/embed/rPRH9B-gvUQ"
                     frameBorder="0"
                     gesture="media"
                     allow="encrypted-media"
