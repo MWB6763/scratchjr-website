@@ -10,7 +10,7 @@ const VideosSection = () => (
             Videos
         </div>
         <div className="content-section-description">
-            Webinars for educators and parents
+            Webinars For Educators And Parents
         </div>
         <div className="content-section-items-container">
             <SectionItem
@@ -20,7 +20,7 @@ const VideosSection = () => (
                     <iframe
                         width="342"
                         height="192"
-                        src="//www.youtube.com/embed/mZAawCvDlBM?rel=0"
+                        src="//youtube.com/embed/mZAawCvDlBM?rel=0"
                         frameBorder="0"
                         allowFullScreen
                     />
@@ -37,7 +37,7 @@ const VideosSection = () => (
                     <iframe
                         width="342"
                         height="192"
-                        src="//www.youtube.com/embed/owAA_IjdVUM?rel=0"
+                        src="//youtube.com/embed/owAA_IjdVUM?rel=0"
                         frameBorder="0"
                         allowFullScreen
                     />
