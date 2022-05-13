@@ -16,7 +16,7 @@ const SamplesSection = () => (
         <div className="content-section-item-description">
             Access the Sample Projects library from the Home screen by tapping on the question mark.
             <img
-                alt="Home page"
+                alt="Home Page"
                 className="content-section-image"
                 src="/images/tips/home.png"
             />
