@@ -11,7 +11,7 @@ const Privacy = () => (
         <NavBar />
         <div id="content">
             <h1>ScratchJr Privacy Policy</h1>
-            <p>The ScratchJr Privacy Policy was last updated: April, 2022</p>
+            <p>The ScratchJr Privacy Policy was last updated: April 2022</p>
             <p className="summary">
                 Scratch cares about your privacy. This document, called a "privacy policy," explains
                 what information we collect from you, how we collect it, why we collect it, and how
@@ -24,147 +24,147 @@ const Privacy = () => (
                 <strong>us</strong>") understand how important privacy is to our community,
                 especially kids and parents ("<strong>you</strong>" or "<strong>user</strong>"). We
                 "<strong>Privacy Policy</strong>") to explain what information we collect through
-                the ScratchJr mobile application (the "<strong>App</strong>"), how we use, process,
+                the ScratchJr mobile application (the "<strong>app</strong>"), how we use, process,
                 and share it, and what we are doing to keep it safe. It also tells you about your
-                rights and choices with respect to your Personal Information, and how you can
+                rights and choices with respect to your personal information, and how you can
                 contact us if you have any questions or concerns.
             </p>
             <p>
                 Please read this Privacy Policy carefully so that you understand your rights in
-                relation to your Personal Information, and how we will collect, use and process your
-                Personal Information. If you do not agree with this Privacy Policy or any part
-                thereof, you should not access or use any part of the App. If you change your mind
-                in the future, you must stop using the App and you may exercise your rights in
-                relation to your Personal Information as set out in this Privacy Policy.
+                relation to your personal information, and how we will collect, use and process your
+                personal information. If you do not agree with this Privacy Policy or any part
+                thereof, you should not access or use any part of the app. If you change your mind
+                in the future, you must stop using the app and you may exercise your rights in
+                relation to your personal information as set out in this Privacy Policy.
             </p>
             <h2 className="header-adjust">
                 What personal information does the ScratchJr Team collect about me?
             </h2>
             <p className="summary">
                 Scratch collects and stores information you provide to us, for example whether you
-                want to use the App at home or for school and in what language. The App
+                want to use the app at home or for school and in what language. The app
                 automatically collects some information about the tablet or phone on which you use
-                the App and about how you play on the App.
+                the App and about how you play on the app.
             </p>
             <p>
-                For the purpose of this Privacy Policy, “Personal Information” means any information
-                relating to an identified or identifiable individual. We obtain Personal Information
+                For the purpose of this Privacy Policy, “personal information” means any information
+                relating to an identified or identifiable individual. We obtain personal information
                 relating to you from various sources described below.
             </p>
             <p>
-                Where applicable, we indicate whether and why you must provide us with your Personal
-                Information, as well as the consequences of failing to do so. If you do not provide
-                Personal Information when requested, you may not be able to benefit from our App if
-                that information is necessary to provide you with the App or if we are legally
+                Where applicable, we indicate whether and why you must provide us with your personal
+                information, as well as the consequences of failing to do so. If you do not provide
+                personal information when requested, you may not be able to benefit from our app if
+                that information is necessary to provide you with the app or if we are legally
                 required to collect the information.
             </p>
             <p>
                 <em>
-                    <strong>Information provided by you</strong>
+                    <strong>Information Provided By You</strong>
                 </em>
                 <ul>
                     <li>
-                        <strong>Projects.</strong> The App collects the projects that you may create
-                        on the App, including pictures or sound recordings features in projects.
+                        <strong>Projects.</strong> The app collects the projects that you may create
+                        on the app, including pictures or sound recordings features in projects.
                         However, this information is only stored locally on your device and is not
-                        transmitted to or accessible by Scratch. When you first download the App, we
+                        transmitted to or accessible by Scratch. When you first download the app, we
                         ask permission to access the camera (to enable you to take pictures to use
                         as characters in your projects) and the microphone (to record sounds to use
                         in your projects) of your device. You can disable these features at any time
-                        in the App settings provided by your device.
+                        in the app settings provided by your device.
                     </li>
                     <li>
-                        <strong>Use preferences.</strong> We ask you whether you will use the App
+                        <strong>Use preferences.</strong> We ask you whether you will use the app
                         for school, at home, or for another reason and what language you would like
-                        us to display the App in.
+                        us to display the app in.
                     </li>
                 </ul>
             </p>
             <p>
                 <em>
-                    <strong>Information collected via automated means</strong>
+                    <strong>Information Collected Via Automated Means</strong>
                 </em>
                 <ul>
                     <li>
-                        <strong>Device and usage information.</strong> When you use our App, we and
+                        <strong>Device and usage information.</strong> When you use our app, we and
                         third parties may automatically collect your IP address at country level and
                         information about your device including model, version and operating system.
                     </li>
                 </ul>
             </p>
-            <h2>How does the ScratchJr Team use my Personal Information?</h2>
+            <h2>How Does The ScratchJr Team Use My Personal Information?</h2>
             <p className="summary">
-                We collect your information to make all the features of the App available to you and
+                We collect your information to make all the features of the app available to you and
                 support your learning, to help us, educators and universities learn about how
-                children play and learn through the App, to help us improve the App and to defend
+                children play and learn through the app, to help us improve the app and to defend
                 our rights.
             </p>
             <p>
                 We may use the Personal Information for one or more of the following purposes:
                 <ul>
                     <li>
-                        <strong>Providing you with the services on the App.</strong> We use Personal
-                        Information for internal and App-related purposes, including to operate,
-                        provide, and maintain the App. In particular we will use your Personal
-                        Information to perform our contractual obligation towards you to allow you
-                        to use the App, to contact you in case of any issue with the App and make
-                        the App available to you in the language that you select in the App
-                        settings. The Personal Information we process when doing so includes any
-                        content you create on the App and your language preference.
+                        <strong>Providing you with the services on the app.</strong> We use personal
+                        information for internal and app-related purposes, including to operate,
+                        provide, and maintain the app. In particular we will use your personal
+                        information to perform our contractual obligation towards you to allow you
+                        to use the app, to contact you in case of any issue with the app and make
+                        the app available to you in the language that you select in the app
+                        settings. The personal information we process when doing so includes any
+                        content you create on the app and your language preference.
                     </li>
                     <li>
-                        <strong>Analytics and improving the App.</strong> We and our service
-                        providers use Personal Information that we collect on the App, such as your
+                        <strong>Analytics and improving the app.</strong> We and our service
+                        providers use personal information that we collect on the app, such as your
                         location, which characters you use the most, how much time you spend in the
-                        App and other activities on the App to monitor and analyze usage of the App
-                        and to improve and enhance the App. It is in our legitimate interest to
-                        improve our App for our users, which includes conducting troubleshooting,
-                        testing and research and to keep the App secure. When doing so we may use
-                        Personal Information that we automatically collect about you, such as
+                        app and other activities on the app to monitor and analyze usage of the app
+                        and to improve and enhance the app. It is in our legitimate interest to
+                        improve our app for our users, which includes conducting troubleshooting,
+                        testing and research and to keep the app secure. When doing so we may use
+                        personal information that we automatically collect about you, such as
                         information on use.
                     </li>
                     <li>
                         <strong>Aggregating Data.</strong> We may de-identify and aggregate
-                        information collected through the App for statistical analysis and other
+                        information collected through the app for statistical analysis and other
                         lawful purposes, including in research studies intended to improve our
                         understanding of how people learn with ScratchJr. Aggregated data may be
-                        derived from your Personal Information but is not Personal Information as
+                        derived from your personal information but is not personal information as
                         this data will not directly or indirectly reveal your identity.
                     </li>
                     <li>
-                        <strong>Legal.</strong> We may use your Personal Information to enforce our <a href="https://www.scratchjr.org/eula">End User License Agreement</a> (EULA), to defend our legal rights, and to comply with our legal obligations
+                        <strong>Legal.</strong> We may use your personal information to enforce our <a href="https://scratchjr.org/eula" title="End User License Agreement">End User License Agreement</a> (EULA), to defend our legal rights, and to comply with our legal obligations
                         and internal policies.
                     </li>
                 </ul>
             </p>
-            <h2>Our use of European Personal Information</h2>
+            <h2>Our Use Of European Personal Information</h2>
             <p className="summary">
                 If you are in the EEA, the UK or Switzerland, we only use your information when we
                 have a ground that allows us to do so.
             </p>
             <p>
                 If you are located in the European Economic Area ("
-                <strong>EEA</strong>"), the UK or Switzerland we only process your Personal
-                Information when we have a valid legal basis:
+                <strong>EEA</strong>"), the UK or Switzerland we only process your personal
+                information when we have a valid legal basis:
                 <ul>
                     <li>
-                        <strong>Contractual necessity.</strong> We may use your Personal Information
+                        <strong>Contractual necessity.</strong> We may use your personal information
                         to perform our contractual obligations towards you. For example, we need
-                        your Personal Information to provide our services on the App.
+                        your personal information to provide our services on the app.
                     </li>
                     <li>
-                        <strong>Legitimate interest.</strong> We may use your Personal Information
+                        <strong>Legitimate interest.</strong> We may use your personal information
                         when we or a third party have a legitimate interest in doing so. In
-                        particular, we have a legitimate interest in using your Personal Information
-                        to provide the App in your preferred language, improve the safety, security,
-                        and performance of our App, and understand how the App is used, including
+                        particular, we have a legitimate interest in using your personal information
+                        to provide the app in your preferred language, improve the safety, security,
+                        and performance of our app, and understand how the app is used, including
                         through research studies that help us understand how people learn with
                         ScratchJr. We only rely on our or a third party's legitimate interests to
-                        process your Personal Information when these interests are not overridden by
+                        process your personal information when these interests are not overridden by
                         your rights and interests.
                     </li>
                     <li>
-                        <strong>Legal obligation.</strong> We may use your Personal Information when
+                        <strong>Legal obligation.</strong> We may use your personal information when
                         we are legally required to. For example, to comply with tax and accounting
                         obligations, or to comply with a court order.
                     </li>
@@ -174,21 +174,21 @@ const Privacy = () => (
                     </li>
                 </ul>
             </p>
-            <h2>How Does the ScratchJr Team Share my Personal Information?</h2>
+            <h2>How Does The ScratchJr Team Share My Personal Information?</h2>
             <p className="summary">
                 We only share your information with other organizations when we need to. We share
-                information with vendors that help us provide the App. We also share the results of
+                information with vendors that help us provide the app. We also share the results of
                 the research we do with schools and researchers, but we first take steps to put that
                 information in a format that does not allow them to identify you. We may also share
                 your information with courts and governments for legal reasons.
             </p>
             <p>
-                We disclose your Personal Information to third parties in the following
+                We disclose your personal information to third parties in the following
                 circumstances:
                 <ul>
                     <li>
                         <strong>Service providers.</strong> We rely on service providers for the
-                        provision of the services on our App, such as: Google Firebase, an analytics
+                        provision of the services on our app, such as: Google Firebase, an analytics
                         provider, to help us to understand our user base and how our App is used.
                     </li>
 
@@ -207,43 +207,43 @@ const Privacy = () => (
                         organization or assets.
                     </li>
                     <li>
-                        <strong>Scratch group.</strong> We share Personal Information about you with
+                        <strong>Scratch group.</strong> We share personal information about you with
                         our affiliates and subsidiaries.
                     </li>
                     <li>
-                        <strong>Legal.</strong> We may disclose your Personal Information if
+                        <strong>Legal.</strong> We may disclose your personal information if
                         required to do so by law or in the good faith belief that such action is
-                        appropriate: (a) under applicable law, including laws outside your country
-                        of residence; (b) to comply with legal processes; (c) to respond to requests
+                        appropriate: (A) under applicable law, including laws outside your country
+                        of residence; (B) to comply with legal processes; (C) to respond to requests
                         from public and government authorities, such as school, school districts,
                         and law enforcement, including public and government authorities outside
-                        your country of residence; (d) to enforce our terms and conditions; (e) to
-                        protect our operations or those of any of our affiliates; (f) to protect our
+                        your country of residence; (D) to enforce our terms and conditions; (E) to
+                        protect our operations or those of any of our affiliates; (F) to protect our
                         rights, privacy, safety, or property, and/or that of our affiliates, you, or
-                        others; and (g) to allow us to pursue available remedies or limit the
+                        others; and (G) to allow us to pursue available remedies or limit the
                         damages that we may sustain.
                     </li>
                     <li>
-                        <strong>Consent.</strong> We may also disclose your Personal Information
+                        <strong>Consent.</strong> We may also disclose your personal information
                         with your permission. We may seek your permission in various ways.
                     </li>
                 </ul>
             </p>
-            <h2>Your Rights and Choices</h2>
+            <h2>Your Rights And Choices</h2>
             <p className="summary">
                 If you're interested in how we get and use your information, you can contact us in
                 any of the ways explained below under “Contact Us” or speak to your parents, who
                 will be able to help you and answer any questions that you have. If you have any
-                questions about how we process your Personal Information, please contact us.
+                questions about how we process your personal information, please contact us.
             </p>
             <p>
-                We strive to provide you with choices regarding the Personal Information you provide
+                We strive to provide you with choices regarding the personal information you provide
                 to us. We have created mechanisms to provide you with the following control over
-                your Personal Information:
+                your personal information:
                 <ul>
                     <li>
                         <strong>Deleting your information.</strong> You can delete your projects by
-                        deleting the App from your device.
+                        deleting the app from your device.
                     </li>
                 </ul>
             </p>
@@ -273,19 +273,19 @@ const Privacy = () => (
             </p>
             <p>
                 If you are in the EEA, the UK or Switzerland, you have the right to request access
-                and receive information about the Personal Information we maintain about you, to
-                update and correct inaccuracies in your Personal Information, to restrict or object
-                to the processing of your Personal Information, to have the information blocked,
+                and receive information about the personal information we maintain about you, to
+                update and correct inaccuracies in your personal information, to restrict or object
+                to the processing of your personal information, to have the information blocked,
                 anonymized, or deleted, as appropriate, or to exercise your right to data
-                portability to easily transfer your Personal Information to another company. Those
+                portability to easily transfer your personal information to another company. Those
                 rights may be limited in some circumstances by local law requirements. In addition
                 to the above-mentioned rights, you also have the right to lodge a complaint with the
-                Information Commissioner’s Office in the UK or the data protection supervisory
+                information commissioner’s Office in the UK or the data protection supervisory
                 authority in the EU country in which you live or work, or where you believe we have
                 infringed data protection laws.
             </p>
             <p>
-                If we rely on consent for the processing of your Personal Information, you have the
+                If we rely on consent for the processing of your personal information, you have the
                 right to withdraw it at any time and free of charge. When you do so, this will not
                 affect the lawfulness of the processing before your consent withdrawal. Please note
                 that we may have valid legal reasons to refuse your request and will inform you if
@@ -299,7 +299,7 @@ const Privacy = () => (
                 help us do the activities explained in this policy.
             </p>
             <p>
-                We take measures to delete your Personal Information or keep it in a form that does
+                We take measures to delete your personal information or keep it in a form that does
                 not allow you to be identified when this information is no longer necessary for the
                 purposes for which we process it, unless we are required by law to keep this
                 information for a longer period. When determining the retention period, we take into
@@ -309,7 +309,7 @@ const Privacy = () => (
                 information from or about you, mandatory retention periods provided by law and the
                 statute of limitations.
             </p>
-            <h2>How does the ScratchJr Team protect my Personal Information?</h2>
+            <h2>How Does The ScratchJr Team Protect My Personal Information?</h2>
             <p className="summary">We take steps to keep your information safe and secure.</p>
             <p>
                 We have in place administrative, physical, and technical procedures that are
@@ -321,10 +321,10 @@ const Privacy = () => (
                 our databases, nor can we guarantee that the information you supply will not be
                 intercepted while being transmitted to us over the internet.
             </p>
-            <h2>Notifications of Changes to the Privacy Policy</h2>
+            <h2>Notifications Of Changes To The Privacy Policy</h2>
             <p className="summary">
                 If we make any changes to how we use your information, we will update this Privacy
-                Policy through the App and may let you know that we have made changes.
+                Policy through the app and may let you know that we have made changes.
             </p>
             <p>
                 We review Privacy Policy on a periodic basis, and we may modify our policies as
@@ -341,15 +341,15 @@ const Privacy = () => (
                 take steps to keep your information safe and secure.
             </p>
             <p>
-                We may transfer the Personal Information that we collect about you to recipients in
-                countries other than the country in which the Personal Information originally was
+                We may transfer the personal information that we collect about you to recipients in
+                countries other than the country in which the personal information originally was
                 collected. Those countries may not have the same data protection laws as the country
-                in which you initially provided the Personal Information.
+                in which you initially provided the personal information.
             </p>
             <p>
-                Scratch is based in the United States. If you provide us with your Personal
-                Information when using the Services from the EEA, Switzerland or the UK, please note
-                that you are transferring your Personal Information outside of those regions to the
+                Scratch is based in the United States. If you provide us with your personal
+                information when using the Services from the EEA, Switzerland or the UK, please note
+                that you are transferring your personal information outside of those regions to the
                 United States for storage and processing.
             </p>
             <h2>Contact Us</h2>
@@ -357,12 +357,12 @@ const Privacy = () => (
                 Please write to us or email us using the contact details set out below.
             </p>
             <p>
-                The Code-to-Learn Foundation d/b/a The Scratch Foundation is the entity responsible
+                The Code-to-Learn Foundation D/B/A The Scratch Foundation is the entity responsible
                 for the processing of your Personal Information and for the purpose of the EU and UK
                 General Data Protection Regulation (GDPR), is the data controller in respect of the
                 processing of your Personal Information. If you have any questions about this
-                Privacy Policy, or if you would like to exercise your rights to your Personal
-                Information, you may contact us at help@scratch.mit.edu or via mail at:
+                Privacy Policy, or if you would like to exercise your rights to your personal
+                information, you may contact us at help@scratch.mit.edu or via mail at:
             </p>
             <p>
                 Scratch Foundation
