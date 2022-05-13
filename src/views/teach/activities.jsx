@@ -17,7 +17,7 @@ const ActivitiesSection = ({match}) => (
     <div>
         <header id="print-header">
             <img
-                alt="ScratchJr logo"
+                alt="ScratchJr Logo"
                 className="scratchjrlogo"
                 src="/images/scratchjrlogo.png"
             />
