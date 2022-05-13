@@ -17,7 +17,7 @@ export default class NavBar extends React.Component {
     render () {
         return (
             <div id="header">
-                <a href="/">
+                <a href="/" title="ScratchJr">
                     <div id="header-logo-wrapper">
                         <img
                             alt="ScratchJr Logo"
@@ -28,35 +28,35 @@ export default class NavBar extends React.Component {
                 </a>
                 <div id="header-nav">
                     <div className="header-nav-item-wrapper">
-                        <a href="/about">
+                        <a href="/about" title="About">
                             <div className={this.generateHeaderClasses('about')}>
                                 About
                             </div>
                         </a>
                     </div>
                     <div className="header-nav-item-wrapper">
-                        <a href="/learn">
+                        <a href="/learn" title="Learn">
                             <div className={this.generateHeaderClasses('learn')}>
                                 Learn
                             </div>
                         </a>
                     </div>
                     <div className="header-nav-item-wrapper">
-                        <a href="/teach">
+                        <a href="/teach" title="Teach">
                             <div className={this.generateHeaderClasses('teach')}>
                                 Teach
                             </div>
                         </a>
                     </div>
                     <div className="header-nav-item-wrapper">
-                        <a href="/outreach">
+                        <a href="/outreach" title="Outreach">
                             <div className={this.generateHeaderClasses('outreach')}>
                                 Outreach
                             </div>
                         </a>
                     </div>
                     <div className="header-nav-item-wrapper">
-                        <a href="/donate">
+                        <a href="/donate" title="Donate">
                             <div className={this.generateHeaderClasses('donate')}>
                                 Donate
                             </div>
