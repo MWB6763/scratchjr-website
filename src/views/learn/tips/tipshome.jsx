@@ -13,25 +13,25 @@ const TipsHome = () => (
         <div className="content-section-description">
             Tips and hints that you might find useful as you explore ScratchJr.
             For answers to more general questions about ScratchJr, see
-            the <a href="/about/faq">Frequently Asked Questions</a>.
+            the <a href="/about/faq" title="Frequently Asked Questions">Frequently Asked Questions.</a>
         </div>
         <div className="content-section-items-container">
             <LinkedSectionItem
-                title="Making, Renaming, and Deleting Projects"
+                title="Making, Renaming, And Deleting Projects"
                 format="full"
                 thumbnail="/images/tips/managing-projects.jpg"
                 linkURL="/tips/manage-projects"
-                linkText="Watch video"
+                linkText="Watch Video"
             >
                 Learn how to make a new project, rename an existing project, and delete a project.
             </LinkedSectionItem>
             <LinkedSectionItem
-                title="Character Animation using the ScratchJr Blocks"
+                title="Character Animation Using The ScratchJr Blocks"
                 format="full"
                 thumbnail="/images/tips/character-animation.jpg"
                 description="Make a simple script by connecting blocks together."
                 linkURL="/tips/character-animation"
-                linkText="Watch video"
+                linkText="Watch Video"
             />
             <LinkedSectionItem
                 title="Multiple Characters"
@@ -39,7 +39,7 @@ const TipsHome = () => (
                 thumbnail="/images/tips/multi-character.jpg"
                 description="Learn how to add characters to your project."
                 linkURL="/tips/multi-character"
-                linkText="Watch video"
+                linkText="Watch Video"
             />
             <LinkedSectionItem
                 title="Trigger Blocks"
@@ -47,7 +47,7 @@ const TipsHome = () => (
                 thumbnail="/images/tips/triggers.jpg"
                 description="Use trigger blocks to specify when a script should run."
                 linkURL="/tips/trigger-blocks"
-                linkText="Watch video"
+                linkText="Watch Video"
             />
             <LinkedSectionItem
                 title="Sharing ScratchJr Projects"
@@ -55,7 +55,7 @@ const TipsHome = () => (
                 thumbnail="/images/tips/share.png"
                 description="You can share projects by email. On iPads you can also share project by AirDrop."
                 linkURL="/tips/share-projects"
-                linkText="Read more"
+                linkText="Read More"
                 translateUrls
             />
             <LinkedSectionItem
@@ -63,7 +63,7 @@ const TipsHome = () => (
                 format="full"
                 thumbnail="/images/tips/sample-projects.png"
                 linkURL="/tips/sample-projects"
-                linkText="Read more"
+                linkText="Read More"
                 translateUrls
             >
                 The Sample Projects library is a collection of
@@ -103,17 +103,17 @@ const TipsHome = () => (
                 thumbnail="/images/tips/copy-script.png"
                 description=""
                 linkURL="/tips/copy-scripts"
-                linkText="Read more"
+                linkText="Read More"
             >
                 You can copy a script (set of blocks) from one character to another in the same project.
             </LinkedSectionItem>
             <LinkedSectionItem
-                title="Multi-page projects"
+                title="Multi-Page Projects"
                 format="full"
                 thumbnail="/images/tips/multi-page.png"
-                description="Projects can have up to four pages with their own characters and scripts."
+                description="Projects can have up to 4 pages with their own characters and scripts."
                 linkURL="/tips/pages"
-                linkText="Read more"
+                linkText="Read More"
             />
             <SectionItem
                 title="Moving Backwards"
