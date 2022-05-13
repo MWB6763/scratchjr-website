@@ -10,7 +10,7 @@ const HourOfCode = () => (
         <div id="content">
             <div className="content-section">
                 <div className="content-section-title">
-                    Try Coding with ScratchJr
+                    Try Coding With ScratchJr
                 </div>
                 <div className="content-section-description">
                     Try these teacher-led activities to explore creative coding with ScratchJr.
@@ -21,10 +21,10 @@ const HourOfCode = () => (
                         title="Can I Make the Sun Set?"
                         thumbnail="/images/activitycards/card06-sun.png"
                         linkURL="/pdfs/hoc/ScratchJr-Sunset.pdf"
-                        linkText="See more"
+                        linkText="See More"
                     >
                         Students will get an introduction to programming by making a sun set over a city
-                        landscape! <em>Ages 5 - 9. Programming, Storytelling, Mathematics,Creativity</em>
+                        landscape! <em>Ages 5-9. Programming, Storytelling, Mathematics, Creativity</em>
                     </StaticLinkSectionItem>
 
                     <StaticLinkSectionItem
@@ -32,10 +32,10 @@ const HourOfCode = () => (
                         title="Can I Make a Spooky Forest?"
                         thumbnail="/images/activitycards/card05-forest.png"
                         linkURL="/pdfs/hoc/ScratchJr-Spooky-Forest.pdf"
-                        linkText="See more"
+                        linkText="See More"
                     >
                         Students will learn more features of ScratchJr by creating a spooky
-                        forest with multiple characters! <em>Ages 5 - 9. Art, Storytelling, Sequence</em>
+                        forest with multiple characters! <em>Ages 5-9. Art, Storytelling, Sequence</em>
                     </StaticLinkSectionItem>
 
                     <StaticLinkSectionItem
@@ -43,11 +43,11 @@ const HourOfCode = () => (
                         title="Can I Make My Characters Greet Each Other?"
                         thumbnail="/images/activitycards/card08-greet.png"
                         linkURL="/pdfs/hoc/ScratchJr-Meet-and-Greet.pdf"
-                        linkText="See more"
+                        linkText="See More"
                     >
                         Students will learn advanced features of the ScratchJr app when
                         they make a dog and kitten meet each other and exchange hellos! <em>
-                        Ages 5 - 9. Programming, Storytelling, Mathematics, Creativity</em>
+                        Ages 5-9. Programming, Storytelling, Mathematics, Creativity</em>
                     </StaticLinkSectionItem>
                 </div>
             </div>
