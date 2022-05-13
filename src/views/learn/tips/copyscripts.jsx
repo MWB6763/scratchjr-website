@@ -31,7 +31,7 @@ const CopyScriptSection = () => (
             The only thing that can&apos;t be copied from one character to another is a
             recorded sound. If a script has a recorded sound, the sound will be replaced
             by the Pop sound in the copied script. You can copy sounds for the same
-            character though, so the recorded sound will duplicate itself in the duplicated script
+            character though, so the recorded sound will duplicate itself in the duplicated script.
         </div>
     </Section>
 );
