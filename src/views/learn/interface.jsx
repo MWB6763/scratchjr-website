@@ -31,8 +31,8 @@ export default class InterfaceSection extends React.Component {
                 >
                     <a
                         href="/pdfs/scratchjr-interface-guide.pdf"
-                    >
-                        <span className="download-icon">&#x2193;</span>Download guide as pdf
+                    title="Download Guide As PDF">
+                        <span className="download-icon">&#x2193;</span>Download Guide As PDF
                     </a>
                 </TxSpan>
                 <div className="interface-container">
