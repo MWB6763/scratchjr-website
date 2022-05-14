@@ -32,7 +32,7 @@ const StaticLinkSectionItem = ({
                 href={linkURL}
                 rel="noopener noreferrer"
                 target="_blank"
-            >
+            title={title}>
                 <div className="content-section-item-title">
                     {title}
                 </div>
@@ -41,7 +41,7 @@ const StaticLinkSectionItem = ({
                 href={linkURL}
                 rel="noopener noreferrer"
                 target="_blank"
-            >
+            title={thumb}>
                 <div className="content-section-item-thumbnail">
                     {thumb}
                 </div>
@@ -52,7 +52,7 @@ const StaticLinkSectionItem = ({
                     href={linkURL}
                     rel="noopener noreferrer"
                     target="_blank"
-                >
+                title={linkText}>
                     {linkText}
                 </a>
             </div>
