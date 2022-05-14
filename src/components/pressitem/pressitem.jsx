@@ -8,7 +8,7 @@ const PressItem = ({
     url
 }) => (
     <div className="content-description-answer">
-        <a href={url}>
+        <a href={url} title={title}>
             {title}
         </a>{' - '}
         {source}. {dateString}
